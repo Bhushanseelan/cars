@@ -1,1 +1,1 @@
-# cars
+# Cars-only SFDX Dev Edition ready
